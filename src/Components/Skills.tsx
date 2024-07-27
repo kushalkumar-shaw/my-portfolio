@@ -32,7 +32,7 @@ const Skills = () => {
                   <div className="flex flex-col items-center justify-center gap-3 p-6">
                     <div className="h-8 sm:h-10">
                       <img
-                        src={`skills/${skill}.svg`}
+                        src={`skills/${skill.toLowerCase()}.svg`}
                         alt={skill}
                         width={40}
                         height={40}

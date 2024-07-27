@@ -54,7 +54,7 @@ const Eduction = () => {
       id="Education"
     >
       <h1 className="text-4xl sm-mx:text-3xl xs-mx:text-2xl  mb-10 font-bold text-center text-white">
-        <span className="text-primaryColor">05.&nbsp;</span>Experience
+        <span className="text-primaryColor">05.&nbsp;</span>Eduction
       </h1>
       <Timeline color="#64FFDA" active={5} bulletSize={dot} lineWidth={2}>
         {TimelineItem(EducationInfo)}

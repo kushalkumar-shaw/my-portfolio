@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import About from "./About";
 import Contact from "./Contact";
 import Experience from "./Experience";
+import Education from "./Education";
 import Footer from "./Footer";
 import Header from "./Header";
 import { Loader } from "./Loader";
@@ -29,9 +30,10 @@ const HomePage = () => {
           <Toaster />
           <Header />
           <About />
+          <Experience />
           <Skills />
           <Projects />
-          <Experience />
+          <Education />
           <Contact />
           <Footer />
           <Mail />

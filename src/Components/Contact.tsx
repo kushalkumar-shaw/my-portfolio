@@ -54,7 +54,7 @@ const Contact = () => {
       id="Contact"
     >
       <h1 className="text-4xl sm-mx:text-3xl xs-mx:text-2xl mb-10 font-bold text-center text-white">
-        <span className="text-primaryColor">05.&nbsp;</span>Contact
+        <span className="text-primaryColor">06.&nbsp;</span>Contact
       </h1>
       <div
         data-aos="flip-left"

@@ -16,6 +16,10 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - **Notifications**: User feedback through `react-hot-toast`.
 - **Document Viewing**: Integrated `react-pdf` for in-browser PDF viewing.
 
+  
+## Live Demo
+You can view the live application here: [Live Demo](https://kushalkumarshaw.vercel.app/)
+
 ## Technologies Used
 
 - **Frontend Framework**: [React](https://reactjs.org/)

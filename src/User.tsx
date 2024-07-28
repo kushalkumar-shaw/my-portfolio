@@ -194,7 +194,7 @@ export const EducationInfo = [
     id: 2,
     img: "evershine.png",
     school: "Evershine English School",
-    date: "May 2021 - Apr 2023",
+    date: "May 2011 - Apr 2021",
     desc: "I completed my class 110 education at Evershine English School, Kalher where I studied Science with Computer Application.",
     degree: "Secondary School Certificate (Class 10)",
   },

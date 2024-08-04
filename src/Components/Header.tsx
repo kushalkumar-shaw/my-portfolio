@@ -9,7 +9,7 @@ const links = [
   "Experience",
   "Skills",
   "Projects",
-  "Eduction",
+  "Education",
   "Contact",
 ];
 const navLinks = (col: Boolean, clicked: any) => {

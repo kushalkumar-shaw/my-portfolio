@@ -27,6 +27,16 @@ const ProjectInfo = [
     link: "https://ks-expense-tracker-app.vercel.app/",
     github: "https://github.com/kushalkumar-shaw/Expense-Tracker-App",
   },
+  {
+    title: "SnapLink",
+    desc: "SnapLink is a robust URL shortening application built with Next.js, designed to streamline the process of transforming long URLs into concise, shareable links. It features seamless integration with the TinyURL API, allowing users to generate shortened URLs effortlessly. The application boasts a mobile-first, responsive design to ensure an optimal user experience across devices, and is optimized with server-side rendering for fast, lightweight performance. Additionally, SnapLink simplifies setup with a straightforward installation process, making it easy for developers to deploy and use.",
+    image:
+      "https://raw.githubusercontent.com/kushalkumar-shaw/snap-link/main/public/Landing%20page.png",
+    live: true,
+    technologies: ["Next.js", "TinyURL API", "JavaScript", "Node.js", "npm/Yarn"],
+    link: "https://ks-snap-link.vercel.app/",
+    github: "https://github.com/kushalkumar-shaw/snap-link",
+  },
 ];
 
 const skillsData = [

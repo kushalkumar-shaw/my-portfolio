@@ -186,6 +186,14 @@ const ExperienceInfo = [
 export const EducationInfo = [
   {
     id: 0,
+    img: "gkv.jpg",
+    school: "Gurukul Kangri Faculty of Engineering and Technology",
+    date: "August 2024 - April 2028",
+    desc: "I am currently pursuing a Bachelor of Technology in Computer Science and Engineering at Gurukul Kangri Faculty of Engineering and Technology. With a strong foundation in software development, data structures, and algorithms, I am passionate about building scalable and efficient solutions. My academic journey has equipped me with skills in full-stack development, cloud computing, and emerging technologies. I am eager to apply my knowledge to real-world challenges and continuously enhance my expertise in the field of computer science.",
+    degree: "Bachelor of Technology - Computer Science and Engineering"
+  },
+  {
+    id: 1,
     img: "iitm.png",
     school: "Indian Institute of Technology Madras",
     date: "May 2023 - April 2027",
@@ -193,7 +201,7 @@ export const EducationInfo = [
     degree: "Bachelor of Science - Data Science and Programming",
   },
   {
-    id: 1,
+    id: 2,
     img: "spdc.png",
     school: "Satish Pradhan Dnyanasadhana College",
     date: "May 2021 - Apr 2023",
@@ -201,7 +209,7 @@ export const EducationInfo = [
     degree: "Higher Secondary Certificate (Class 12)",
   },
   {
-    id: 2,
+    id: 3,
     img: "evershine.png",
     school: "Evershine English School",
     date: "May 2011 - Apr 2021",
